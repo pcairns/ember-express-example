@@ -1,0 +1,20 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "connect-assets": "*",
+    "coffee-script": "*",
+    "less": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {
+    "grunt-ember-templates": "~0.4.10",
+    "grunt": "~0.4.1"
+  }
+}

@@ -1,0 +1,2 @@
+# ignore the templates.js which is generated on server start to prevent infinite loop of restarts
+/assets/js/templates.js

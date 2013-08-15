@@ -1,0 +1,1 @@
+An example application built using ember, express and mongoDB.
